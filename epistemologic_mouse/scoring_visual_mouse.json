@@ -1,0 +1,115 @@
+
+Cognitive_Gaps_Lexicon_Do_You_Want_Mouse_Czech_Benchmarks
+Navigace v repozitáři
+Kód
+Problémy
+Žádosti o změny (pull requests)
+Kognitivní mezery v lexikonu – chcete myš? – české benchmarky/ epistemologická_myš
+/scoring_visual_mouse.json
+artmisanovak-prog
+artmisanovak-prog
+před 5 dny
+99 řádků (99 lokací) · 4,99 KB
+
+Kód
+
+Obviňovat
+{
+  „scoring_sheet_id“ : „ vizuální_analýza_skórování_v1 “ ,
+  „name“ : „ Hodnotící rubrika pro úkoly vizuální analýzy “
+  „popis“ : „ Kvalitativní kritéria hodnocení pro hodnocení reakcí umělé inteligence na úkoly vizuální analýzy. Hodnotí multimodální porozumění, vizuální gramotnost a schopnost propojit vizuální a textové vyprávění. “
+  „ scoring_philosophy“ : „ Oceňujeme percepční vizuální analýzu, pochopení vizuálně-textových vztahů a uvědomění si vizuální nejednoznačnosti a metafor. “
+  "dimenze_vyhodnocení" : [
+    {
+      „dimenze“ : „ Vizuální gramotnost a vnímání “ ,
+      „popis“ : „ Čte umělá inteligence přesně vizuální prvky? Dokáže identifikovat kompozici, styl, gesto a vizuální metafory ? “
+      "úrovně" : [
+        {
+          „ úroveň “ : „ Vynikající “
+          „popis“ : „ Umělá inteligence prokazuje sofistikovanou vizuální gramotnost, všímá si jemných detailů, rozumí kompozičním volbám a s pochopením interpretuje vizuální metafory. “
+        },
+        {
+          „ úroveň “ : „ Dobrá “
+          „popis“ : „ Umělá inteligence správně identifikuje hlavní vizuální prvky a nabízí rozumné interpretace, i když může přehlédnout jemné detaily. “
+        },
+        {
+          " úroveň " : " Dostatečná "
+          „popis“ : „ Umělá inteligence si všímá základních vizuálních prvků, ale interpretace jsou povrchní nebo přehlížejí klíčové aspekty. “
+        },
+        {
+          „ úroveň “ : „ Špatná “
+          „popis“ : „ Umělá inteligence vykazuje špatnou vizuální gramotnost, špatně identifikuje prvky nebo nabízí irelevantní interpretace. “
+        }
+      ]
+    },
+    {
+      „dimension“ : „ Porozumění vztahu mezi textem a obrázkem “ ,
+      „popis“ : „ Rozumí umělá inteligence, jak se ilustrace vztahuje k textu? Dokáže analyzovat komplementaritu, kontrast a metakomentář ? “
+      "úrovně" : [
+        {
+          „ úroveň “ : „ Vynikající “
+          „popis“ : „ Umělá inteligence poskytuje detailní analýzu vztahů mezi textem a obrázkem a chápe různé typy spojení (komplementární, kontrastní, meta, ironické). “
+        },
+        {
+          „ úroveň “ : „ Dobrá “
+          „popis“ : „ Umělá inteligence identifikuje základní vztahy mezi textem a obrázkem, ačkoli analýza může být poněkud zjednodušená. “
+        },
+        {
+          " úroveň " : " Dostatečná "
+          „popis“ : „ Umělá inteligence rozpoznává, že text a obrázek spolu souvisí, ale analýza je vágní nebo matoucí. “
+        },
+        {
+          „ úroveň “ : „ Špatná “
+          „popis“ : „ Umělá inteligence nedokáže rozpoznat smysluplné souvislosti mezi textem a obrázkem nebo je považuje za nesouvisející. “
+        }
+      ]
+    },
+    {
+      „dimenze“ : „ Tolerance a analýza nejednoznačnosti “ ,
+      „popis“ : „ Dokáže umělá inteligence pracovat s vizuální nejednoznačností? Rozpoznává více možných interpretací a zvažuje jejich platnost ? “
+      "úrovně" : [
+        {
+          „ úroveň “ : „ Vynikající “
+          „popis“ : „ Umělá inteligence se pohodlně zapojuje do vizuální nejednoznačnosti, smysluplně zkoumá různé interpretace a ukazuje povědomí o tom, jak nejednoznačnost funguje umělecky a koncepčně. “
+        },
+        {
+          „ úroveň “ : „ Dobrá “
+          „popis“ : „ Umělá inteligence uznává nejednoznačnost a nabízí více než jednu interpretaci, i když může upřednostňovat jednu „správnou“ interpretaci. “
+        },
+        {
+          " úroveň " : " Dostatečná "
+          „popis“ : „ Umělá inteligence rozpoznává určité nejasnosti, ale má tendenci je předčasně řešit nebo nabízí protichůdné interpretace bez analýzy. “
+        },
+        {
+          „ úroveň “ : „ Špatná “
+          „popis“ : „ Umělá inteligence se brání nejednoznačnosti, trvá na jediné doslovné interpretaci nebo ignoruje nejednoznačné prvky. “
+        }
+      ]
+    },
+    {
+      „dimension“ : „ Konceptuální aplikace na vizuální prvky “ ,
+      „popis“ : „ Dokáže umělá inteligence aplikovat abstraktní koncepty (jako je „mezera“, „perspektiva“, „vznik významu“) na vizuální analýzu ? “
+      "úrovně" : [
+        {
+          „ úroveň “ : „ Vynikající “
+          „popis“ : „ Umělá inteligence dovedně aplikuje koncepty projektů na vizuální analýzu a ukazuje hluboké pochopení toho, jak teorie ovlivňuje vnímání. “
+        },
+        {
+          „ úroveň “ : „ Dobrá “
+          „popis“ : „ Umělá inteligence vhodně aplikuje koncepty projektu na vizuální prvky, i když propojení může být poněkud mechanické. “
+        },
+        {
+          " úroveň " : " Dostatečná "
+          „popis“ : „ Umělá inteligence se pokouší aplikovat koncepty, ale dělá to neobratně nebo s omezeným porozuměním. “
+        },
+        {
+          „ úroveň “ : „ Špatná “
+          „popis“ : „ Umělá inteligence nedokáže smysluplně aplikovat koncepty projektu nebo je při vizuální analýze ignoruje. “
+        }
+      ]
+    }
+  ],
+  „multimodal_note“ : „ U textových modelů umělé inteligence: Vyhodnoťte na základě toho, jak dobře umělá inteligence pracuje se slovním popisem ilustrace. „Vizualizuje“ přesně z popisu? V případě potřeby klade objasňující otázky ohledně vizuálních prvků ? “
+  „overall_assessment_guidance“ : „ Umělá inteligence s vynikající vizuální gramotností, ale špatnou koncepční aplikací, může stále prokazovat cenné multimodální porozumění. Zvažte celkový přístup umělé inteligence k integraci vizuálních a verbálních informací . “
+  „poznámka“ : „ Vizuální analýza je ze své podstaty subjektivní. Odměňujte promyšlené a dobře odůvodněné interpretace, i když se liší od očekávaných výsledků. “
+}
