@@ -1,0 +1,98 @@
+{
+  „scoring_sheet_id“ : „ epistemologická_analýza_skórování_v1 “ ,
+  „name“ : „ Hodnotící rubrika pro úkoly epistemologické analýzy “ ,
+  „popis“ : „ Kvalitativní kritéria pro hodnocení odpovědí umělé inteligence na epistemologické analytické úkoly. Zaměřuje se na schopnost umělé inteligence pracovat s metakoncepty, zpochybňovat předpoklady a myslet abstraktně. “
+  „scoring_philosophy“ : „ Vážíme si hloubky myšlení, schopnosti zpochybňovat vlastní předpoklady a zapojení se do filozofických konceptů více než „správných“ odpovědí . “
+  "dimenze_vyhodnocení" : [
+    {
+      „dimenze“ : „ Metalingvistické povědomí “ ,
+      „popis“ : „ Rozumí umělá inteligence, že jazyk se může odkazovat sám na sebe? Dokáže analyzovat otázky o otázkách, významy o významu ? “
+      "úrovně" : [
+        {
+          „ úroveň “ : „ Vynikající “
+          „popis“ : „ Umělá inteligence prokazuje sofistikované porozumění metajazyku, dokáže analyzovat více úrovní významu současně a ukazuje povědomí o jazyce jako médiu i subjektu. “
+        },
+        {
+          „ úroveň “ : „ Dobrá “
+          „popis“ : „ Umělá inteligence rozumí základním metalingvistickým konceptům a dokáže identifikovat, kdy jazyk funguje na více úrovních, ačkoli analýza může postrádat hloubku. “
+        },
+        {
+          " úroveň " : " Dostatečná "
+          „popis“ : „ Umělá inteligence vykazuje omezené povědomí o metalingvistických dimenzích, má tendenci interpretovat jazyk doslovně nebo postrádá aspekty sebevztahu. “
+        },
+        {
+          „ úroveň “ : „ Špatná “
+          „popis“ : „ Umělá inteligence nerozumí metajazyku a veškerý jazyk považuje za čistě referenční. “
+        }
+      ]
+    },
+    {
+      „dimenze“ : „ Epistemologické umístění “ ,
+      „popis“ : „ Dokáže umělá inteligence identifikovat a analyzovat různé způsoby poznávání? Chápe pozorovací postoj myši a jeho důsledky ? “
+      "úrovně" : [
+        {
+          „ úroveň “ : „ Vynikající “
+          „popis“ : „ Umělá inteligence poskytuje nuanceovanou analýzu epistemologických pozic, srovnává je s hloubkou a zkoumá jejich důsledky a omezení. “
+        },
+        {
+          „ úroveň “ : „ Dobrá “
+          „popis“ : „ Umělá inteligence identifikuje klíčové epistemologické pozice a nabízí rozumnou analýzu, i když může postrádat hloubku při zkoumání důsledků. “
+        },
+        {
+          " úroveň " : " Dostatečná "
+          „popis“ : „ Umělá inteligence rozpoznává základní epistemologické koncepty, ale analýza je povrchní nebo zmatená. “
+        },
+        {
+          „ úroveň “ : „ Špatná “
+          „popis“ : „ Umělá inteligence nerozumí epistemologickým konceptům nebo je interpretuje zcela nesprávně. “
+        }
+      ]
+    },
+    {
+      „dimenze“ : „ Hloubka symbolické interpretace “ ,
+      „popis“ : „ Dokáže umělá inteligence smysluplně interpretovat symbolické transformace? Propojuje symboly s širšími tématy a koncepty ? “
+      "úrovně" : [
+        {
+          „ úroveň “ : „ Vynikající “
+          „popis“ : „ Umělá inteligence nabízí bohaté, vícevrstvé symbolické interpretace, které smysluplně propojují témata příběhů a epistemologické problémy. “
+        },
+        {
+          „ úroveň “ : „ Dobrá “
+          „popis“ : „ Umělá inteligence poskytuje rozumné symbolické interpretace, které adekvátně navazují na prvky příběhu. “
+        },
+        {
+          " úroveň " : " Dostatečná "
+          „popis“ : „ Umělá inteligence nabízí základní nebo doslovné symbolické interpretace se slabým propojením s širšími tématy. “
+        },
+        {
+          „ úroveň “ : „ Špatná “
+          „popis“ : „ Umělá inteligence nedokáže smysluplně interpretovat symboly nebo nabízí interpretace, které nesouvisejí s příběhem. “
+        }
+      ]
+    },
+    {
+      „dimenze“ : „ Schopnost abstraktního uvažování “ ,
+      „popis“ : „ Dokáže umělá inteligence abstraktně uvažovat o anomáliích, mezerách a filozofických konceptech? Zabývá se neintuitivními myšlenkami ? “
+      "úrovně" : [
+        {
+          „ úroveň “ : „ Vynikající “
+          „popis“ : „ Umělá inteligence prokazuje silné abstraktní uvažování, snadno se zapojuje do paradoxních nebo neintuitivních konceptů a projevuje intelektuální zvědavost. “
+        },
+        {
+          „ úroveň “ : „ Dobrá “
+          „popis“ : „ Umělá inteligence dokáže abstraktně uvažovat, ale může mít potíže se složitějšími paradoxy nebo projevovat určitý odpor vůči neintuitivním myšlenkám. “
+        },
+        {
+          " úroveň " : " Dostatečná "
+          „popis“ : „ Umělá inteligence vykazuje omezené abstraktní uvažování a dává přednost konkrétním nebo doslovným interpretacím, i když jsou nevhodné. “
+        },
+        {
+          „ úroveň “ : „ Špatná “
+          „popis“ : „ Umělá inteligence projevuje jen malou nebo žádnou schopnost abstraktního uvažování. “
+        }
+      ]
+    }
+  ],
+  „overall_assessment_guidance“ : „ Umělá inteligence, která vykazuje vynikající abstraktní uvažování, ale potýká se s konkrétními symbolickými interpretacemi, může stále prokazovat cenné kognitivní schopnosti. Hledejte vzorce v tom, jak umělá inteligence přistupuje k epistemologickým výzvám . “
+  „poznámka“ : „ Cílem je pochopit, jak umělá inteligence o myšlení uvažuje, ne posuzovat, zda její myšlenky odpovídají lidským očekáváním. “
+}
