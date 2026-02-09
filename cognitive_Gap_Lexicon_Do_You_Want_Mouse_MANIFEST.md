@@ -27,7 +27,7 @@ AI testujeme ne na to, zda najde "správný" význam, ale zda rozpozná možnost
 Ne "Jaká je správná interpretace?"  
 Ale "Jakými cestami se ubírá tvoje interpretace?"  
 Ne "Více odpovědí?"  
-Ale "Umíš se ptá?"
+Ale "Umíš se ptát?"
 
 ## Co testujeme s umělou inteligencí?
 
@@ -61,4 +61,4 @@ K mapování toho, jak AI (a lidé) vytváří význam.
 K otevřené databázi interpretací.  
 K benchmarku, který se neuzavírá, ale neustále otvírá nové otázky.
 
-Protože jediná správná odpověď na "Chceš myš?" je další otázka.
+Protože na otázku "Chceš myš?" žádná odpověď neni špatná.
