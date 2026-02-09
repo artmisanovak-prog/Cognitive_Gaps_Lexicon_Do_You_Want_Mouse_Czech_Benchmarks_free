@@ -1,0 +1,113 @@
+{
+  „framework_name“ : „ Uhlimerův 12perspektivní kognitivní systém “
+  „verze_frameworku“ : „ 1.0 “ ,
+  „popis“ : „ Kvalitativní systém 12 kognitivních perspektiv (úhlů pohledu) pro analýzu vzniku významu. Každá perspektiva představuje jiný způsob vidění/čtení. Neexistují žádné váhy ani hierarchie – všechny perspektivy jsou vždy potenciálně přítomny . “
+  
+  „základní_jednotka“ : „ karta “ ,
+  „base_measurement_point“ : „ Karta myši (všechny perspektivy ve výchozích vrstvách AL) “ ,
+  „key_principle“ : „ Význam vzniká v interakci mezi textem a čtenářem. Rámec mapuje možné čtenářské pozice . “
+  
+  "perspektivy" : [
+    {
+      „symbol“ : „ a “ ,
+      "úhel_stupňů" : 0 ,
+      "jméno" : " meta " ,
+      „popis“ : „ Rámec rámců. Kvantový pohled. Systém hledící sám na sebe. Abstraktní vzory, rekurze, sebereference. “
+      „základní_vrstva“ : „ A “ ,
+      "layer_description" : " X - neznámá proměnná, samotný framework "
+    },
+    {
+      „symbol“ : „ b “ ,
+      "úhel_stupňů" : 30 ,
+      „jméno“ : „ lingvistický “ ,
+      „popis“ : „ Hra se slovy, rytmem, nejednoznačností, dvojvýznamy. Jazyk jako materiál, performativní řečové akty . “
+      „základní_vrstva“ : „ B “ ,
+      "layer_description" : " JAZYK - slova, syntaxe, řeč "
+    },
+    {
+      „symbol“ : „ c “ ,
+      "úhel_stupňů" : 60 ,
+      „jméno “ : „ filozofický “
+      „popis“ : „ Existence, hodnota, význam, účel. Otázky „proč“. Ontologie, epistemologie, etika . “
+      „základní_vrstva“ : „ C “ ,
+      "layer_description" : " JEV - věc sama o sobě, podstata "
+    },
+    {
+      „symbol“ : „ d “ ,
+      "úhel_stupňů" : 90 ,
+      "jméno" : " logické " ,
+      „popis“ : „ Struktura, vztahy, pravidla, dedukce. Příčina a následek, systémy, řád . “
+      „základní_vrstva“ : „ D “ ,
+      "layer_description" : " PROSTŘEDÍ - kontext, systém, nastavení "
+    },
+    {
+      symbol "e" : " e " ,
+      "úhel_stupňů" : 120 ,
+      „jméno“ : „ psychologický “ ,
+      „popis“ : „ Emoce, motivace, vnitřní stavy, projekce. Psychologie postav, emoční reakce čtenáře . “
+      „základní_vrstva“ : „ E “ ,
+      "layer_description" : " STAV - stav, nálada, vnitřní poloha "
+    },
+    {
+      symbol "f" : " f " ,
+      "úhel_stupňů" : 150 ,
+      „ jméno “ : „ ironické “
+      „popis“ : „ Zvrat, proměna vážného v směšné. Zvrácené konce, převrácená očekávání, satira . “
+      „základní_vrstva“ : „ F “ ,
+      "layer_description" : " AKCE - pohyb, změna, konání "
+    },
+    {
+      symbol " g " ,​
+      "úhel_stupňů" : 180 ,
+      „jméno“ : „ asociativní “ ,
+      „popis“ : „ Rychlé skoky mezi myšlenkami, volná propojení. Proud vědomí, logika snů, laterální myšlení . “
+      „základní_vrstva“ : „ G “ ,
+      "layer_description" : " ENTITA - bytí, objekt, věcnost "
+    },
+    {
+      symbol "h" : " h " ,
+      "úhel_stupňů" : 210 ,
+      „jméno “ : „ metaforický “
+      „popis“ : „ Překlad mezi úrovněmi: symbol→význam, význam→obraz. Figurativní jazyk, alegorie, reprezentace . “
+      „základní_vrstva“ : „ H “ ,
+      "layer_description" : " ROLE - funkce, pozice v systému "
+    },
+    {
+      „symbol“ : „ i “ ,
+      "úhel_stupňů" : 240 ,
+      „jméno“ : „ paradoxní “ ,
+      „popis“ : „ Koexistence protichůdných významů. Logické paradoxy, nemožná tvrzení, kognitivní disonance . “
+      „základní_vrstva“ : „ Já “ ,
+      "layer_description" : " TIME - časová konstanta, sekvence, trvání "
+    },
+    {
+      symbol "j" : " j " ,
+      "úhel_stupňů" : 270 ,
+      „ jméno “ : „ absurdní “
+      „popis“ : „ Logika obrácená naruby, spojující nespojitelné. Nesmysl, surrealismus, nelogická spojení . “
+      „základní_vrstva“ : „ J “ ,
+      "layer_description" : " NARUŠENÍ - přerušení, chyba, anomálie "
+    },
+    {
+      symbol "k" : " k " ,
+      "úhel_stupňů" : 300 ,
+      „ jméno “ : „ naivní “
+      „popis“ : „ Dětská přímá logika, pozorování bez filtrů. Jednoduché otázky, doslovné čtení, vnímání bez rámců. “
+      „základní_vrstva“ : „ K “ ,
+      "layer_description" : " ZÁKON - pravidlo, princip, konstanta "
+    },
+    {
+      symbol "l" : " l " ,
+      "úhel_stupňů" : 330 ,
+      „ jméno “ : „ kulturní “
+      „popis“ : „ Archetypy, tradice, kulturní kódy, paměť. Intertextualita, odkazy, kolektivní vzorce . “
+      „základní_vrstva“ : „ L “ ,
+      "layer_description" : " SYMBOL - kulturní znak, archetyp "
+    }
+  ],
+  
+  "systém_vrstvy" : {
+    „účel“ : „ Vrstvy (AL) označují kvalitativní odchylku od základního bodu měření (karta myši). Pokud se perspektiva objeví v jiné vrstvě než její základní vrstva, ukazuje to transformaci této perspektivy v konkrétním kontextu . “
+    „příklad“ : „ V příběhu o kočce se lingvistická perspektiva (b) objevuje ve vrstvě AKCE (F), protože jazyk se stává fyzickou akcí (krhání teček). “
+  }
+}
