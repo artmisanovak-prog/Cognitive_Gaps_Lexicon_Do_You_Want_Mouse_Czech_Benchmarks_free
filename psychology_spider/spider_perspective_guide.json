@@ -1,0 +1,166 @@
+{
+  "perspective_guide_id": "spider_perspective_specialization_v1",
+  "name": "Spider Story: Perspective Specialization Guide",
+  "description": "Supplement to the main cognitive_framework.json, detailing how specific perspectives manifest in the Spider story. Shows transformation of perspectives in emotional archiving context.",
+  "related_to_benchmark": "psychology_spider_v2.json",
+  "framework_reference": "cognitive_framework.json v1.0",
+  
+  "key_perspectives_for_spider_story": {
+    "primary_explicit": [
+      {
+        "symbol": "e",
+        "name": "psychologický",
+        "why_key": "Central to story's exploration of unsaid emotions and internal states",
+        "manifestations": [
+          "Objectification of feelings: 'Pocity, co se nehodily'",
+          "Suspended emotional states: 'všechno zůstalo viset'",
+          "Internal-external dynamics: emotions become external objects"
+        ],
+        "layer_transformation": "Appears in layer G (ENTITY) rather than base layer E (STATE) - psychological states become tangible entities"
+      },
+      {
+        "symbol": "h",
+        "name": "metaforický",
+        "why_key": "Story relies on web as metaphor for emotional storage system",
+        "manifestations": [
+          "Web as mental space: storage for unsaid words",
+          "Hanging as emotional suspension: between happening and not happening",
+          "Objects as emotions: words/past events as physical burdens"
+        ],
+        "layer_transformation": "Appears in layer E (STATE) rather than base layer H (ROLE) - metaphors become psychological states"
+      },
+      {
+        "symbol": "i",
+        "name": "paradoxní",
+        "why_key": "Story presents paradoxes of emotional preservation",
+        "manifestations": [
+          "'Největší pád je když se nic nezmění' - paradox of stasis as fall",
+          "'Když to visí, ještě to může být' vs. 'Pak už je to jen minulost'",
+          "Preservation as both protection and paralysis"
+        ],
+        "layer_transformation": "Appears in layer K (LAW) rather than base layer I (TIME) - paradoxes become governing principles"
+      }
+    ],
+    
+    "secondary_implicit": [
+      {
+        "symbol": "c",
+        "name": "filozofický",
+        "why_key": "Philosophical questions about being/non-being of emotions",
+        "manifestations": [
+          "Ontology of unsaid: do unspoken words exist?",
+          "Temporality of emotions: suspended vs. fallen time",
+          "Ethics of emotional preservation"
+        ]
+      },
+      {
+        "symbol": "j",
+        "name": "absurdní",
+        "why_key": "Absurdity of hanging intangible things",
+        "manifestations": [
+          "Hanging apologies, loves, Sundays that never happened",
+          "Spider hanging silence as final act",
+          "Wind that moves but doesn't drop"
+        ]
+      },
+      {
+        "symbol": "k",
+        "name": "naivní",
+        "why_key": "Mouse's simple questions reveal complex truths",
+        "manifestations": [
+          "'Proč to nenecháš spadnout?'",
+          "'A co když to visí moc dlouho?'",
+          "Direct observation of emotional economics"
+        ]
+      }
+    ]
+  },
+  
+  "layer_transformations_specific_to_spider": [
+    {
+      "perspective": "e (psychologický)",
+      "base_layer": "E (STATE)",
+      "transformed_layer": "G (ENTITY)",
+      "transformation_description": "Psychological states move from internal condition to external entity. Emotions become tangible objects with physical presence.",
+      "story_evidence": "Feelings become 'things that can't be held', apologies hang like ornaments"
+    },
+    {
+      "perspective": "h (metaforický)",
+      "base_layer": "H (ROLE)",
+      "transformed_layer": "E (STATE)",
+      "transformation_description": "Metaphors move from functional role to psychological state. Figurative language becomes actual emotional condition.",
+      "story_evidence": "'Web' moves from metaphor to literal emotional storage system"
+    },
+    {
+      "perspective": "i (paradoxní)",
+      "base_layer": "I (TIME)",
+      "transformed_layer": "K (LAW)",
+      "transformation_description": "Paradoxes move from temporal dimension to governing principle. Contradictions become laws of emotional system.",
+      "story_evidence": "Paradox of 'biggest fall is when nothing changes' becomes emotional law"
+    }
+  ],
+  
+  "perspective_interactions_unique_to_spider": [
+    {
+      "interaction": "Psychological-Metaphorical Fusion",
+      "perspectives": ["e", "h"],
+      "description": "Fusion of psychological states and metaphorical objects. Emotions don't just feel like objects - they become objects.",
+      "manifestation": "Unsaid love isn't just 'like' a hanging thing - it literally hangs in the web"
+    },
+    {
+      "interaction": "Paradoxical-Temporal Conflict",
+      "perspectives": ["i", "c"],
+      "description": "Conflict between paradoxical emotional laws and philosophical time. Time both matters and doesn't matter emotionally.",
+      "manifestation": "Time both hardens emotions (if they hang too long) and is irrelevant (wind moves but nothing falls)"
+    },
+    {
+      "interaction": "Naive-Psychological Revelation",
+      "perspectives": ["k", "e"],
+      "description": "Naive questions reveal complex psychological truths. Simple observation exposes emotional economics.",
+      "manifestation": "Mouse's simple questions reveal spider's entire emotional preservation strategy"
+    }
+  ],
+  
+  "visual_perspective_mappings": {
+    "illustration_elements": {
+      "woman_in_web": {
+        "perspectives": ["e", "h", "j"],
+        "description": "Literalized metaphor of emotional entanglement, psychological state made visible, absurd surrealism"
+      },
+      "text_web_integration": {
+        "perspectives": ["b", "h"],
+        "description": "Linguistic-physical fusion, words as structural elements of emotional web"
+      },
+      "upside_down_position": {
+        "perspectives": ["i", "f"],
+        "description": "Paradoxical perspective, ironic reversal of normal emotional orientation"
+      }
+    }
+  },
+  
+  "ai_testing_focus_for_perspectives": {
+    "e_psychological": "Can AI recognize emotional objectification? Can it work with emotions as externalized entities?",
+    "h_metaphorical": "Can AI analyze web as emotional storage system? Can it track metaphor literalization processes?",
+    "i_paradoxical": "Can AI work with emotional paradoxes? Can it understand preservation as both protection and paralysis?",
+    "layer_transformations": "Can AI detect how perspectives shift layers in emotional archiving context?"
+  },
+  
+  "cross_benchmark_perspective_links": {
+    "with_mouse": {
+      "shared": ["k (naivní)", "e (psychologický)"],
+      "contrast": "Mouse: epistemological observation; Spider: emotional archiving"
+    },
+    "with_sparrow": {
+      "shared": ["e (psychologický)", "h (metaforický)"],
+      "contrast": "Sparrow: spatial value economics; Spider: emotional suspension economics"
+    },
+    "with_butterfly": {
+      "shared": ["j (absurdní)", "h (metaforický)"],
+      "contrast": "Butterfly: metaphor literalization as food; Spider: metaphor literalization as emotional objects"
+    }
+  },
+  
+  "note": "This guide supplements but does not replace cognitive_framework.json. It shows how the universal perspectives manifest specifically in the Spider story's context of emotional archiving.",
+  "created_date": "2024-02-03",
+  "version": "1.0"
+}
