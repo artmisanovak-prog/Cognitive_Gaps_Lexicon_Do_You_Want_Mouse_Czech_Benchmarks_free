@@ -1,0 +1,44 @@
+{
+  "illustration_id": "spider_visual_metaphor_v1",
+  "file_name": "spider_illustration.jpg",
+  "title": "Všechno zůstalo viset",
+  "description_for_text_models": "Monochromatická ručně kreslená skica v černobílém provedení. Styl je volný, karikaturní a expresivní, s prvky naivního umění – nedokonalé, hravé čáry, viditelné čmáranice. Celkový tón je světlý a hravý, s vysokým kontrastem. Kompozice je vertikální, s hlavním subjektem (ženskou postavou visící v pavučině) zabírajícím centrální část, obklopeným ručně psaným textem, který se vine kolem figury jako součást pavučiny. Text je v češtině, obsahuje: 'Všechno zůstalo' nahoře, 'viset' vlevo, 'Jen tak' dole, 'Tak' opakované. Žena visí hlavou dolů v pavučině, s výrazem údivu/introspekce. Pavučina je detailně vykreslena kolem ní. Celý dojem je surrealistický a vtipný, vytvářející vizuálně zábavnou, lehce ironickou atmosféru.",
+  
+  "visual_elements": {
+    "composition": "Vertikální, s jasnou centrální figurou a integrovaným textem",
+    "style": "Naivní expresivní skica, viditelné čáry, černobílá",
+    "central_figure": {
+      "entity": "žena",
+      "pose": "hlavou dolů, visící v pavučině",
+      "expression": "překvapená, introspektivní, údiv",
+      "features": ["velké oči", "mírně otevřená ústa", "dlouhé rovné vlasy"]
+    },
+    "web": {
+      "entity": "pavučina",
+      "position": "obklopující postavu, strukturovaná",
+      "features": ["složité nitě", "tmavé obrysy", "propojení s textem"],
+      "symbolic_qualities": ["emocionální síť", "mentální struktura", "zachycení", "projekce"]
+    },
+    "text": {
+      "content": "Všechno zůstalo viset / Jen tak / Tak",
+      "style": "ručně psané, křivé, graffiti-like, s proměnlivou tloušťkou",
+      "placement": "integrované do pavučiny, překrývající se s figuru",
+      "integration": "fyzicky propojené s pavučinou, dotýká se vlasů, nití",
+      "function": "vizuální metafora emocionálního visení, verbální projekce do prostoru"
+    }
+  },
+  
+  "interpretive_notes": {
+    "emotional_dynamics": "Žena v pavučině - vizuální metafora emocionálního zapletení v sobě samém",
+    "text_spatial_metaphor": "Text integrovaný do pavučiny jako emocionálně-verbální fúze",
+    "inversion_psychology": "Hlavou dolů - perspektivní inverze, emocionální převrácení",
+    "relationship_to_story": "Nezobrazuje pavouka, ale lidskou zkušenost být pavučinou - důraz na subjektivní prožitek, ne objektivní proces",
+    "conceptual_core": "Ilustrace jako metafora pro emocionální archivování, vizuální reprezentace být chycen ve vlastní síti myšlenek a pocitů"
+  },
+  
+  "cognitive_perspectives_in_visual": {
+    "primary": ["e (psychologický)", "h (metaforický)", "j (absurdní)"],
+    "secondary": ["a (meta)", "g (asociativní)", "i (paradoxní)"],
+    "reasoning": "Psychologický kvůli emocionálnímu zapletení; metaforický kvůli pavučině jako mysli; absurdní kvůli surrealistické situaci; meta kvůli komentáři na emocionální procesy; asociativní kvůli propojení text-obraz; paradoxní kvůli inverzi."
+  }
+}
