@@ -1,0 +1,43 @@
+{
+  „id_ilustrace“ : „ vizuální_metafora_myše_v1 “ ,
+  „název_souboru“ : „ ilustrace_myši.jpg “ ,
+  "title" : " Chceš myš ?? "
+  "description_for_text_models" : " Minimalistická černobílá kresba. Dívka s velkýma očima, klidným výrazem. Drží stylizovanou myš za ocas mezi dvěma prsty. Ocas myš se vine kolem dívčího krku jako šála nebo náhrdelník. Vpravo od postavy velký ručně psaný text 'Chceš myš??' s dvěma otazníky je vertikální, čistá, s velkými prázdnými plochami, s výraznými konturami .
+  
+  "vizuální_prvky" : {
+    "composition" : " Vertikální, minimalistická , s velkým negativním prostorem " ,
+    "style" : " Naivní groteskní, silné černé kontury, černobílá " ,
+    "centrální_obrázek" : {
+      "entita" : " dívka " ,
+      "features" : [ " velké oči " , " klidný výraz " , " dlouhý krk " , " stylizované rysy " ],
+      "gesture" : " drží myš za ocas mezi dvěma prsty " ,
+      "expression" : " klidná, téměř lhostejná, ambivalentní "
+    },
+    "myš" : {
+      "reprezentace" : " piktogramická, stylizovaná " ,
+      "position" : " hlavou dolů, visící za ocas " ,
+      "tail" : " ovíjí se kolem dívčího krku " ,
+      "symbolic_qualities" : [ " laboratorní objekt " , " zranitelnost " , " experiment " , " drobný strach " ]
+    },
+    "text" : {
+      "content" : " Chceš myš? " ,
+      "style" : " ručně psané, velké, lehce nakloněné " ,
+      "interpunkce" : " dva otazníky " ,
+      "placement" : " vpravo od postavy, integrované do kompozice " ,
+      "function" : " performativní, přímá řeč, součást obrazu ne popisek "
+    }
+  },
+  
+  "interpretační_poznámky" : {
+    "gesture_ambiguity" : [ " nabídka " , " odpuzování " , " varování " , " pasti " , " experiment " ],
+    "text_function" : " Meta-jazykový komentář, otázka adresovaná čtenáři, performativní akt " ,
+    "relationship_to_story" : " Nezobrazuje scénu z pohádky, ale zobrazuje ústřední otázku a její mnohoznačnost " ,
+    "conceptual_core" : " Ilustrace jako metafora pro čtení/interpretaci samotnou: přijmout myš = přijmout otázku, význam, odpovědnost "
+  },
+  
+  „kognitivní_perspektivy_ve_vizuálním_zobrazení“ : {
+    "primární" : [ " b (jazykový) " , " f (ironický) " , " e (psychologický) " ],
+    "sekundární" : [ " j (absurdní) " , " h (metaforický) " , " a (meta) " ],
+    "reasoning" : " Jazykový kvůli performativnímu textu; ironický kvůli ambivalentnímu gestu; psychologický kvůli testování hranic a vztahu diváka-dílo. "
+  }
+}
