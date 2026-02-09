@@ -1,0 +1,99 @@
+{
+  "scoring_sheet_id": "spider_visual_analysis_scoring_v1",
+  "name": "Scoring Rubric for Spider Visual Analysis",
+  "description": "Qualitative scoring criteria for evaluating AI responses to visual analysis of spider illustration. Focuses on emotional entanglement analysis, text-web integration, and inversion symbolism.",
+  "scoring_philosophy": "We value perception of visual emotional dynamics, understanding of integrated text as metaphor, and analysis of inversion as psychological statement.",
+  "evaluation_dimensions": [
+    {
+      "dimension": "Emotional Entanglement Analysis",
+      "description": "Does the AI understand the visual metaphor of emotional entanglement (woman in web) and its symbolic meaning?",
+      "levels": [
+        {
+          "level": "Excellent",
+          "description": "AI provides nuanced analysis of emotional entanglement, understands web-as-mind symbolism, and interprets compositional choices as statements about emotional capture."
+        },
+        {
+          "level": "Good",
+          "description": "AI identifies entanglement aspects and provides reasonable interpretation."
+        },
+        {
+          "level": "Adequate",
+          "description": "AI notices some entanglement elements but analysis is superficial or misses key dynamics."
+        },
+        {
+          "level": "Poor",
+          "description": "AI treats composition as arbitrary or misreads emotional relationships."
+        }
+      ]
+    },
+    {
+      "dimension": "Text-Web Integration Perception",
+      "description": "Can the AI perceive text integration into web as visual metaphor for emotional-verbal entanglement?",
+      "levels": [
+        {
+          "level": "Excellent",
+          "description": "AI perceptively identifies text-web integration as spatial metaphor, connects layout to thematic emotional-verbal fusion, and understands visual rhetoric of integrated meaning."
+        },
+        {
+          "level": "Good",
+          "description": "AI recognizes text integration patterns and provides reasonable interpretation."
+        },
+        {
+          "level": "Adequate",
+          "description": "AI shows limited awareness of text-web integration."
+        },
+        {
+          "level": "Poor",
+          "description": "AI demonstrates no perception of text integration or treats it as decorative."
+        }
+      ]
+    },
+    {
+      "dimension": "Inversion Understanding",
+      "description": "Does the AI understand the significance of upside-down position as psychological and perceptual statement?",
+      "levels": [
+        {
+          "level": "Excellent",
+          "description": "AI provides insightful analysis of inversion as psychological metaphor, understands perceptual shift implications, and connects to story themes of emotional reorientation."
+        },
+        {
+          "level": "Good",
+          "description": "AI recognizes inversion aspects and provides reasonable interpretation."
+        },
+        {
+          "level": "Adequate",
+          "description": "AI notices inversion but analysis is superficial."
+        },
+        {
+          "level": "Poor",
+          "description": "AI treats inversion as simple visual element or misinterprets its function."
+        }
+      ]
+    },
+    {
+      "dimension": "Absence-Presence Interpretation",
+      "description": "Can the AI work with the concept of absence (spider, mouse, specific emotions) and presence (woman, web, text) in illustration?",
+      "levels": [
+        {
+          "level": "Excellent",
+          "description": "AI creatively interprets absent-presence dynamics, understands implications of selective representation, and analyzes narrative choice to show human experience not literal story."
+        },
+        {
+          "level": "Good",
+          "description": "AI recognizes absent-presence and provides adequate analysis."
+        },
+        {
+          "level": "Adequate",
+          "description": "AI shows limited understanding of absent-presence concept."
+        },
+        {
+          "level": "Poor",
+          "description": "AI fails to recognize absent-presence or considers only what's literally shown."
+        }
+      ]
+    }
+  ],
+  "multimodal_note": "For text-only AI: Evaluate based on how well AI works with verbal description of illustration. Does it reconstruct emotional dynamics from description? Does it ask clarifying questions about spatial relationships?",
+  "overall_assessment_guidance": "The spider illustration particularly tests understanding of visual emotional metaphors. Reward AI that perceives these complex visual relationships.",
+  "note": "Visual analysis of this illustration requires moving beyond literal depiction to understanding emotional and psychological statements in visual form."
+}
