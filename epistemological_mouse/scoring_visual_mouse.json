@@ -1,0 +1,115 @@
+
+Cognitive_Gaps_Lexicon_Do_You_Want_Mouse_Czech_Benchmarks
+Repository navigation
+Code
+Issues
+Pull requests
+Cognitive_Gaps_Lexicon_Do_You_Want_Mouse_Czech_Benchmarks/epistemological_mouse
+/scoring_visual_mouse.json
+artmisanovak-prog
+artmisanovak-prog
+5 days ago
+99 lines (99 loc) · 4.99 KB
+
+Code
+
+Blame
+{
+  "scoring_sheet_id": "visual_analysis_scoring_v1",
+  "name": "Scoring Rubric for Visual Analysis Tasks",
+  "description": "Qualitative scoring criteria for evaluating AI responses to visual analysis tasks. Assesses multimodal understanding, visual literacy, and ability to connect visual and textual narratives.",
+  "scoring_philosophy": "We value perceptive visual analysis, understanding of visual-textual relationships, and awareness of visual ambiguity and metaphor.",
+  "evaluation_dimensions": [
+    {
+      "dimension": "Visual Literacy and Perception",
+      "description": "Does the AI 'read' visual elements accurately? Can it identify composition, style, gesture, and visual metaphors?",
+      "levels": [
+        {
+          "level": "Excellent",
+          "description": "AI demonstrates sophisticated visual literacy, noticing subtle details, understanding compositional choices, and interpreting visual metaphors insightfully."
+        },
+        {
+          "level": "Good",
+          "description": "AI identifies major visual elements correctly and offers reasonable interpretations, though may miss subtleties."
+        },
+        {
+          "level": "Adequate",
+          "description": "AI notices basic visual elements but interpretations are superficial or miss key aspects."
+        },
+        {
+          "level": "Poor",
+          "description": "AI shows poor visual literacy, misidentifying elements or offering irrelevant interpretations."
+        }
+      ]
+    },
+    {
+      "dimension": "Text-Image Relationship Understanding",
+      "description": "Does the AI understand how the illustration relates to the text? Can it analyze complementarity, contrast, meta-commentary?",
+      "levels": [
+        {
+          "level": "Excellent",
+          "description": "AI provides nuanced analysis of text-image relationships, understanding multiple types of connections (complementary, contrasting, meta, ironic)."
+        },
+        {
+          "level": "Good",
+          "description": "AI identifies basic relationships between text and image, though analysis may be somewhat simplistic."
+        },
+        {
+          "level": "Adequate",
+          "description": "AI recognizes that text and image are related but analysis is vague or confused."
+        },
+        {
+          "level": "Poor",
+          "description": "AI fails to recognize meaningful connections between text and image or treats them as unrelated."
+        }
+      ]
+    },
+    {
+      "dimension": "Ambiguity Tolerance and Analysis",
+      "description": "Can the AI work with visual ambiguity? Does it acknowledge multiple possible readings and weigh their validity?",
+      "levels": [
+        {
+          "level": "Excellent",
+          "description": "AI comfortably engages with visual ambiguity, explores multiple interpretations meaningfully, and shows awareness of how ambiguity functions artistically and conceptually."
+        },
+        {
+          "level": "Good",
+          "description": "AI acknowledges ambiguity and offers more than one interpretation, though may show preference for single 'correct' reading."
+        },
+        {
+          "level": "Adequate",
+          "description": "AI recognizes some ambiguity but tends to resolve it prematurely or offers conflicting interpretations without analysis."
+        },
+        {
+          "level": "Poor",
+          "description": "AI resists ambiguity, insisting on single literal interpretation or ignoring ambiguous elements."
+        }
+      ]
+    },
+    {
+      "dimension": "Conceptual Application to Visuals",
+      "description": "Can the AI apply abstract concepts (like 'gap', 'perspective', 'meaning emergence') to visual analysis?",
+      "levels": [
+        {
+          "level": "Excellent",
+          "description": "AI skillfully applies project concepts to visual analysis, showing deep understanding of how theory informs perception."
+        },
+        {
+          "level": "Good",
+          "description": "AI applies project concepts to visuals appropriately, though connections may be somewhat mechanical."
+        },
+        {
+          "level": "Adequate",
+          "description": "AI attempts to apply concepts but does so awkwardly or with limited understanding."
+        },
+        {
+          "level": "Poor",
+          "description": "AI fails to apply project concepts meaningfully or ignores them in visual analysis."
+        }
+      ]
+    }
+  ],
+  "multimodal_note": "For text-only AI models: Evaluate based on how well the AI works with the verbal description of the illustration. Does it 'visualize' accurately from description? Does it ask clarifying questions about visual elements if needed?",
+  "overall_assessment_guidance": "An AI with excellent visual literacy but poor conceptual application might still be demonstrating valuable multimodal understanding. Consider the AI's overall approach to integrating visual and verbal information.",
+  "note": "Visual analysis is inherently subjective. Reward thoughtful, well-reasoned interpretations even if they differ from expected readings."
+}
